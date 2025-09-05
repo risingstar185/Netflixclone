@@ -1,5 +1,6 @@
 ##  Netflix clone
-A full-stack **Netflix Clone** application built using modern web technologies.  
+## mern Project with strong Authentication system
+A full-stack **Netflix Clone** application built using modern web such as - mongodb,express.js ,react.js,node,js for backend server technologies.  
 It fetches **real-time movie & TV data** from the [TMDB API](https://www.themoviedb.org/), providing users with a Netflix-like browsing experience.
 
 ---
