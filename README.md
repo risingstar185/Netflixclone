@@ -16,7 +16,7 @@ It fetches **real-time movie & TV data** from the [TMDB API](https://www.themovi
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js / Next.js  
+- **Frontend:** React.js / Redux toolkit 
 - **Styling:** CSS / Tailwind CSS  
 - **API:** [TMDB API](https://developers.themoviedb.org/3)  
 - **Version Control:** Git & GitHub  
